@@ -10,8 +10,8 @@
 - Based on gender, weight will let you know how much water should you drink a day.
 - Human body graphics to drinking water tracker
 - Diverse menu of nearly 20 different drinks.
-- Possible to choose the amount of water each time.
-- Smart reminder: time mode go to bed so you don't get water drink reminder.
+- Possible to choose the amount of the drink each time.
+- Smart reminder: time mode go to bed so you don't get water drink reminders.
 
 <div>
  <img src="https://user-images.githubusercontent.com/89068106/145699681-a94d1578-6466-42ff-814b-ff0ac858b787.jpeg" width=270 height=480>
