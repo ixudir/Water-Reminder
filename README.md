@@ -1,18 +1,17 @@
 # Water-Reminder
 
-###  Water-Reminderr, a great application that take care of your health.If you're too busy to remember having to drink enough and regularly, don't worry, there's "Water-Reminder" to help you solve that problem.Drink water reminder is an application with main function is to help us keep water tracker we need to replenish and water drinking reminder in time. Users only need to  select a gender and enter a weight number, it will help you calculate how much water should you drink per day. You can also tracker water history, reach your daily goal to open the respective achievements, 
-
+### It helps you to drink regulalry durning the day by pushing a reminder notification
 
 # Tools 
 - Android Studio
 
 # Functionalities
 - Easy to use, beautiful interface.
-- Based on gender, weight will let you know how much water should drink a day.
+- Based on gender, weight will let you know how much water should you drink a day.
 - Human body graphics to drinking water tracker
 - Diverse menu of nearly 20 different drinks.
-- Can choose the amount of water each time.
-- Smart reminder: time mode go to bed so you don't get drink water reminder.
+- Possible to choose the amount of water each time.
+- Smart reminder: time mode go to bed so you don't get water drink reminder.
 
 <div>
  <img src="https://user-images.githubusercontent.com/89068106/145699681-a94d1578-6466-42ff-814b-ff0ac858b787.jpeg" width=270 height=480>
